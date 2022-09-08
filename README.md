@@ -6,6 +6,8 @@ Simple Mac Address Changer For Linux In python
 
 ## MAC Chain ⛓️
 
+change mac address automatically in specific time durations
+
 installation:
 
 ```bash
