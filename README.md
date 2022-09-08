@@ -4,6 +4,12 @@ Simple Mac Address Changer For Linux In python
 ![Logo](https://github.com/kartikhunt3r/MacChanger/blob/main/logo.gif)
 
 
+## Tools
+
+- [Mac Chain](https://github.com/kartikhunt3r/MacChanger/blob/main/README.md#mac-chain-%EF%B8%8F)
+- [Mac Changer](https://github.com/kartikhunt3r/MacChanger/blob/main/README.md#macchanger)
+
+
 ## Features
 
 - change mac address in specific time durations
